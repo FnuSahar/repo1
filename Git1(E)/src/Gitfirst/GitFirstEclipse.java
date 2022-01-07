@@ -10,6 +10,15 @@ public class GitFirstEclipse {
 		System.out.println(x+y);
 
 	} public void Method1(){
+		
+	}
+	public void Method2() {
+		
 	}
 
 }
+
+
+
+
+
