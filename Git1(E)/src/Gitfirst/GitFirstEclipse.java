@@ -9,6 +9,7 @@ public class GitFirstEclipse {
 		
 		System.out.println(x+y);
 
+	} public void Method1(){
 	}
 
 }
